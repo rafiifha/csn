@@ -1,0 +1,398 @@
+[
+ {
+  "kode": "47242",
+  "nama": "Perdagangan Eceran Roti, Kue Kering, serta Kue Basah dan Sejenisnya"
+ },
+ {
+  "kode": "47243",
+  "nama": "Perdagangan Eceran Kopi, Gula Pasir, Gula Merah, dan Sejenisnya"
+ },
+ {
+  "kode": "47244",
+  "nama": "Perdagangan Eceran Tahu, Tempe, Tauco, dan Oncom"
+ },
+ {
+  "kode": "47246",
+  "nama": "Perdagangan Eceran Ikan Olahan"
+ },
+ {
+  "kode": "47249",
+  "nama": "Perdagangan Eceran Makanan Lainnya"
+ },
+ {
+  "kode": "47401",
+  "nama": "Perdagangan Eceran Komputer dan Perlengkapannya"
+ },
+ {
+  "kode": "47404",
+  "nama": "Perdagangan Eceran Telepon beserta Aksesorisnya"
+ },
+ {
+  "kode": "47405",
+  "nama": "Perdagangan Eceran Mesin dan Peralatan Kantor"
+ },
+ {
+  "kode": "47406",
+  "nama": "Perdagangan Eceran Peralatan Audio dan Video"
+ },
+ {
+  "kode": "47511",
+  "nama": "Perdagangan Eceran Tekstil"
+ },
+ {
+  "kode": "47512",
+  "nama": "Perdagangan Eceran Perlengkapan Rumah Tangga dari Tekstil"
+ },
+ {
+  "kode": "47513",
+  "nama": "Perdagangan Eceran Perlengkapan Jahit Menjahit"
+ },
+ {
+  "kode": "23121",
+  "nama": "Industri Perlengkapan dan Peralatan Rumah Tangga dari Kaca"
+ },
+ {
+  "kode": "46631",
+  "nama": "Perdagangan Besar Sepeda Motor Baru"
+ },
+ {
+  "kode": "46632",
+  "nama": "Perdagangan Besar Sepeda Motor Bekas"
+ },
+ {
+  "kode": "46209",
+  "nama": "Perdagangan Besar Hasil Pertanian dan Hewan Hidup Lainnya"
+ },
+ {
+  "kode": "46312",
+  "nama": "Perdagangan Besar Buah-buahan"
+ },
+ {
+  "kode": "46591",
+  "nama": "Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya"
+ },
+ {
+  "kode": "46593",
+  "nama": "Perdagangan Besar Alat Transportasi Darat (Bukan Mobil, Sepeda Motor, dan Sejenisnya), Suku Cadang, dan Perlengkapannya"
+ },
+ {
+  "kode": "47230",
+  "nama": "Perdagangan Eceran Rokok dan Tembakau"
+ },
+ {
+  "kode": "46599",
+  "nama": "Perdagangan Besar Mesin, Peralatan, dan Perlengkapan Lainnya YTDL"
+ },
+ {
+  "kode": "46731",
+  "nama": "Perdagangan Besar Bahan Konstruksi dari Logam"
+ },
+ {
+  "kode": "46732",
+  "nama": "Perdagangan Besar Kaca Lembaran"
+ },
+ {
+  "kode": "46733",
+  "nama": "Perdagangan Besar Bahan Konstruksi dari Tanah Liat, Kapur, Semen, atau Kaca"
+ },
+ {
+  "kode": "46734",
+  "nama": "Perdagangan Besar Semen, Kapur, Pasir, dan Batu"
+ },
+ {
+  "kode": "46735",
+  "nama": "Perdagangan Besar Bahan Konstruksi dari Porselen"
+ },
+ {
+  "kode": "46736",
+  "nama": "Perdagangan Besar Bahan Konstruksi dari Kayu"
+ },
+ {
+  "kode": "46737",
+  "nama": "Perdagangan Besar Cat"
+ },
+ {
+  "kode": "46738",
+  "nama": "Perdagangan Besar Berbagai Macam Material Bangunan"
+ },
+ {
+  "kode": "46739",
+  "nama": "Perdagangan Besar Bahan Konstruksi, Perkakas, Perlengkapan Perpipaan, dan Peralatan Pemanas Lainnya"
+ },
+ {
+  "kode": "46752",
+  "nama": "Perdagangan Besar Pupuk dan Produk Agrokimia"
+ },
+ {
+  "kode": "46792",
+  "nama": "Perdagangan Besar Alat Kesehatan untuk Hewan"
+ },
+ {
+  "kode": "46793",
+  "nama": "Perdagangan Besar Karet dan Plastik dalam Bentuk Dasar"
+ },
+ {
+  "kode": "46795",
+  "nama": "Perdagangan Besar Barang dari Kertas dan Karton"
+ },
+ {
+  "kode": "95320",
+  "nama": "Reparasi dan Perawatan Sepeda Motor"
+ },
+ {
+  "kode": "56210",
+  "nama": "Aktivitas Jasa Boga untuk Acara Tertentu (Event Catering)"
+ },
+ {
+  "kode": "56303",
+  "nama": "Aktivitas Rumah Minum/Kafe"
+ },
+ {
+  "kode": "56304",
+  "nama": "Aktivitas Kedai Minuman"
+ },
+ {
+  "kode": "47241",
+  "nama": "Perdagangan Eceran Beras"
+ },
+ {
+  "kode": "56290",
+  "nama": "Aktivitas Penyediaan Jasa Boga Lainnya"
+ },
+ {
+  "kode": "74112",
+  "nama": "Aktivitas Desain Peralatan Rumah Tangga dan Furnitur"
+ },
+ {
+  "kode": "33119",
+  "nama": "Reparasi dan Pemeliharaan Produk Logam Pabrikasi Lainnya"
+ },
+ {
+  "kode": "46633",
+  "nama": "Perdagangan Besar Suku Cadang Sepeda Motor dan Aksesorinya"
+ },
+ {
+  "kode": "46100",
+  "nama": "Perdagangan Besar atas dasar Balas Jasa (Fee) atau Kontrak"
+ },
+ {
+  "kode": "46201",
+  "nama": "Perdagangan Besar Padi dan Palawija"
+ },
+ {
+  "kode": "46202",
+  "nama": "Perdagangan Besar Buah yang Mengandung Minyak"
+ },
+ {
+  "kode": "46203",
+  "nama": "Perdagangan Besar Bunga dan Tanaman Hias"
+ },
+ {
+  "kode": "46204",
+  "nama": "Perdagangan Besar Tembakau Rajangan"
+ },
+ {
+  "kode": "46205",
+  "nama": "Perdagangan Besar Binatang Hidup"
+ },
+ {
+  "kode": "79110",
+  "nama": "Aktivitas Agen Perjalanan"
+ },
+ {
+  "kode": "81210",
+  "nama": "Aktivitas Kebersihan Umum Bangunan"
+ },
+ {
+  "kode": "81290",
+  "nama": "Aktivitas Kebersihan Lainnya"
+ },
+ {
+  "kode": "46339",
+  "nama": "Perdagangan Besar Makanan dan Minuman Lainnya"
+ },
+ {
+  "kode": "46411",
+  "nama": "Perdagangan Besar Tekstil"
+ },
+ {
+  "kode": "46313",
+  "nama": "Perdagangan Besar Sayuran"
+ },
+ {
+  "kode": "46314",
+  "nama": "Perdagangan Besar Kopi, Teh, dan Kakao"
+ },
+ {
+  "kode": "46315",
+  "nama": "Perdagangan Besar Minyak dan Lemak Nabati"
+ },
+ {
+  "kode": "46319",
+  "nama": "Perdagangan Besar Bahan Makanan dan Minuman Hasil Pertanian Lainnya"
+ },
+ {
+  "kode": "46321",
+  "nama": "Perdagangan Besar Daging Sapi dan Daging Sapi Olahan"
+ },
+ {
+  "kode": "46324",
+  "nama": "Perdagangan Besar Hasil Perikanan dan Olahan Terkait"
+ },
+ {
+  "kode": "46327",
+  "nama": "Perdagangan Besar Minyak dan Lemak Hewani"
+ },
+ {
+  "kode": "46331",
+  "nama": "Perdagangan Besar Gula, Cokelat, dan Kembang Gula"
+ },
+ {
+  "kode": "46332",
+  "nama": "Perdagangan Besar Produk Bakeri"
+ },
+ {
+  "kode": "46412",
+  "nama": "Perdagangan Besar Pakaian"
+ },
+ {
+  "kode": "46413",
+  "nama": "Perdagangan Besar Alas Kaki"
+ },
+ {
+  "kode": "46414",
+  "nama": "Perdagangan Besar Barang Jadi Tekstil"
+ },
+ {
+  "kode": "46512",
+  "nama": "Perdagangan Besar Perangkat Lunak"
+ },
+ {
+  "kode": "46521",
+  "nama": "Perdagangan Besar Suku Cadang Elektronik"
+ },
+ {
+  "kode": "46523",
+  "nama": "Perdagangan Besar Peralatan Telekomunikasi"
+ },
+ {
+  "kode": "46794",
+  "nama": "Perdagangan Besar Kertas dan Karton"
+ },
+ {
+  "kode": "46206",
+  "nama": "Perdagangan Besar Ikan dan Biota Air Hidup Lainnya"
+ },
+ {
+  "kode": "46207",
+  "nama": "Perdagangan Besar Hasil Kehutanan dan Perburuan"
+ },
+ {
+  "kode": "46208",
+  "nama": "Perdagangan Besar Kulit"
+ },
+ {
+  "kode": "78200",
+  "nama": "Aktivitas Penyediaan Tenaga Kerja Sementara dan Penyediaan Sumber Daya Manusia Lainnya"
+ },
+ {
+  "kode": "85589",
+  "nama": "Pelatihan Kerja Perusahaan Lainnya"
+ },
+ {
+  "kode": "47630",
+  "nama": "Perdagangan Eceran Alat Permainan dan Mainan"
+ },
+ {
+  "kode": "47611",
+  "nama": "Perdagangan Eceran Alat Tulis Menulis dan Gambar"
+ },
+ {
+  "kode": "46325",
+  "nama": "Perdagangan Besar Telur dan Hasil Olahan Telur"
+ },
+ {
+  "kode": "47214",
+  "nama": "Perdagangan Eceran Hasil Peternakan"
+ },
+ {
+  "kode": "47725",
+  "nama": "Perdagangan Eceran Alat Kesehatan untuk Manusia"
+ },
+ {
+  "kode": "47723",
+  "nama": "Perdagangan Eceran Obat Bahan Alam untuk Manusia"
+ },
+ {
+  "kode": "47724",
+  "nama": "Perdagangan Eceran Kosmetik untuk Manusia"
+ },
+ {
+  "kode": "47112",
+  "nama": "Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau Selain dengan Sistem Swalayan"
+ },
+ {
+  "kode": "46415",
+  "nama": "Perdagangan Besar Perlengkapan Jahit"
+ },
+ {
+  "kode": "46511",
+  "nama": "Perdagangan Besar Komputer dan Perlengkapan Komputer"
+ },
+ {
+  "kode": "46901",
+  "nama": "Perdagangan Besar Berbagai Macam Barang di Grosir/Perkulakan Swalayan"
+ },
+ {
+  "kode": "47521",
+  "nama": "Perdagangan Eceran Bahan dan Material Konstruksi"
+ },
+ {
+  "kode": "47591",
+  "nama": "Perdagangan Eceran Furnitur"
+ },
+ {
+  "kode": "47592",
+  "nama": "Perdagangan Eceran Peralatan Listrik Rumah Tangga, Peralatan Penerangan, dan Perlengkapannya"
+ },
+ {
+  "kode": "47594",
+  "nama": "Perdagangan Eceran Alat Musik"
+ },
+ {
+  "kode": "47593",
+  "nama": "Perdagangan Eceran Barang Pecah Belah; Perlengkapan Dapur dan Makan"
+ },
+ {
+  "kode": "46902",
+  "nama": "Perdagangan Besar Berbagai Macam Barang Selain di Grosir/Perkulakan Swalayan"
+ },
+ {
+  "kode": "47111",
+  "nama": "Perdagangan Eceran Berbagai Macam Barang yang Utamanya Makanan, Minuman, atau Tembakau dengan Sistem Swalayan"
+ },
+ {
+  "kode": "47191",
+  "nama": "Perdagangan Eceran Berbagai Macam Barang yang Utamanya Bukan Makanan, Minuman, atau Tembakau dengan Sistem Swalayan"
+ },
+ {
+  "kode": "47215",
+  "nama": "Perdagangan Eceran Hasil Perikanan"
+ },
+ {
+  "kode": "47213",
+  "nama": "Perdagangan Eceran Sayuran"
+ },
+ {
+  "kode": "47212",
+  "nama": "Perdagangan Eceran Buah-buahan"
+ },
+ {
+  "kode": "47211",
+  "nama": "Perdagangan Eceran Padi dan Palawija"
+ },
+ {
+  "kode": "47222",
+  "nama": "Perdagangan Eceran Minuman Tidak Beralkohol"
+ }
+]
